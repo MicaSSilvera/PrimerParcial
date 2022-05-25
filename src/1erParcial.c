@@ -21,7 +21,7 @@
 #define CALLE 25
 #define NOMBRE 20
 #define MENSAJES 2000
-#define VIVIENDA 3
+#define VIVIENDA 50
 #define CENSISTAS 3
 
 int main(void) {
